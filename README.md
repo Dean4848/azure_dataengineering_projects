@@ -3,7 +3,7 @@
 
 
 Welcome to the **Azure Data Engineering Project** repository! 🚀  
-This project demonstrates the engineering component of the Microsoft Azure Platform, from data ingestion, data transformation, performing analysis and building visualisation. My experieence from this project give me insight of industry best practices in data engineering and cloud platform.
+This project demonstrates the engineering component of the Microsoft Azure Platform, from data ingestion and transformation to analysis and building visualisations. The experience gained from this project provides insight into industry best practices in data engineering and cloud platforms.
 
 - **Project Plan:(https://sassy-koala-9ee.notion.site/Azure-ETL-Data-Engineering-Project-223d9b3994d98090bdacfbfce07e3a76?source=copy_link))**
 
